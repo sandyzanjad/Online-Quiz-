@@ -1,0 +1,8 @@
+E:\Quiz Exam\Quiz Examination\Quiz Examination\bin\Quiz Examination.dll
+E:\Quiz Exam\Quiz Examination\Quiz Examination\bin\Quiz Examination.pdb
+E:\Quiz Exam\Quiz Examination\Quiz Examination\obj\Debug\Quiz Examination.dll
+E:\Quiz Exam\Quiz Examination\Quiz Examination\obj\Debug\Quiz Examination.pdb
+C:\Users\user\Desktop\as\Quiz Examination\Quiz Examination\bin\Quiz Examination.dll
+C:\Users\user\Desktop\as\Quiz Examination\Quiz Examination\bin\Quiz Examination.pdb
+C:\Users\user\Desktop\as\Quiz Examination\Quiz Examination\obj\Debug\Quiz Examination.dll
+C:\Users\user\Desktop\as\Quiz Examination\Quiz Examination\obj\Debug\Quiz Examination.pdb

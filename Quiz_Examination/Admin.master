@@ -1,0 +1,71 @@
+﻿<%@ Master Language="C#" MasterPageFile="~/Site1.Master" AutoEventWireup="true" CodeBehind="Admin.master.cs" Inherits="Quiz_Examination.Admin1" %>
+<asp:Content ID="Content1" ContentPlaceHolderID="ContentPlaceHolder2" runat="server">
+
+
+
+
+<head>
+<style>
+    label {
+      color:darkred;
+      text-align:center;
+      font-size:30px;
+      font-family: Arial, Helvetica, sans-serif;
+    }
+    h4
+    {
+        text-align:right;
+        margin-right:30px;
+        
+    }
+</style>
+
+<asp:Label ID="Label1" runat="server" Text=""></asp:Label>
+<!--
+<table>
+<tr><td><label>Admin</label></td>   
+ </tr>
+</table>
+-->
+
+   <h4><a href="Home.aspx">Logout</a></h4>
+</head>
+
+
+<body>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
+<body>
+
+<div class="w3-sidebar w3-bar-block w3-large" style="width:10%">
+  <a href="Adminprofile.aspx" class="w3-bar-item w3-button" >Profile</a>
+  <a href="Userdetails.aspx" class="w3-bar-item w3-button w3-hover-none">User Details</a>
+  <a href="Setexams.aspx" class="w3-bar-item w3-button w3-hover-none w3-hover-text-red">Set Exam</a>
+  <a href="Viewresult.aspx" class="w3-bar-item w3-button w3-hover-none w3-hover-text-grey">View Result</a>
+  
+</div>
+
+<div style="margin-left:10%">
+
+<div class="w3-container w3-dark-grey">
+  <h1>Admin</h1>
+</div>    
+</body>
+
+
+
+
+
+
+
+
+
+    <asp:ContentPlaceHolder id="a" runat="server">
+        
+    </asp:ContentPlaceHolder>
+
+    </div>
+
+</asp:Content>
+
+
